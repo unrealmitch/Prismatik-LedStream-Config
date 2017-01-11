@@ -14,4 +14,4 @@ How to Use:
 *8-If you want edit one or more leds, select them and edit in group LED, when the colour is black, all values are the same for all select leds, but when it's red, you will edit the value of every led regardless the value of each one [offset]. When you finish select SAVE!
 9-When you finish, press the button Generate, and then save the new config file with button save under the text!
 
-![alt tag]https://github.com/unrealmitch/Prismatik-LedStream-Config/blob/master/Prismatik%20Capture.jpg?raw=true
+![Screenshot](https://raw.githubusercontent.com/unrealmitch/Prismatik-LedStream-Config/master/Prismatik%20Capture.jpg)
