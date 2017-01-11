@@ -1,6 +1,8 @@
 # Prismatik-LedStream-Config
 Easy way to make the setup of LedStrep for Prismatik
 
+![Screenshot](https://raw.githubusercontent.com/unrealmitch/Prismatik-LedStream-Config/master/Prismatik%20Capture.jpg)
+
 How to Use:
 
 1-Better if you load a config file of Prismatik with Open & Load [for HEADERs], indicate how many leds your stream have.
@@ -23,4 +25,4 @@ How to Use:
 
 9-When you finish, press the button Generate, and then save the new config file with button save under the text!
 
-![Screenshot](https://raw.githubusercontent.com/unrealmitch/Prismatik-LedStream-Config/master/Prismatik%20Capture.jpg)
+
