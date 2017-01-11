@@ -1,0 +1,28 @@
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.exe.config
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.exe.manifest
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.application
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.exe
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.pdb
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik_LedStrip_Config.F_Main.resources
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik_LedStrip_Config.F_Preview.resources
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik_LedStrip_Config.Properties.Resources.resources
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.csproj.GenerateResource.Cache
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.exe.manifest
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.application
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.exe
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.pdb
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.csprojResolveAssemblyReference.cache
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.exe.config
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.exe
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.pdb
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.exe.manifest
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.application
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.exe
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Release\Prismatik LedStrip Config.pdb
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.csprojResolveAssemblyReference.cache
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik_LedStrip_Config.F_Main.resources
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik_LedStrip_Config.F_Preview.resources
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik_LedStrip_Config.Properties.Resources.resources
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.csproj.GenerateResource.Cache
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.exe.manifest
+D:\Drive\Compartido\GitHub\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Release\Prismatik LedStrip Config.application

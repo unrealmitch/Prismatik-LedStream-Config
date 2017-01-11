@@ -1,0 +1,14 @@
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Debug\Prismatik LedStrip Config.exe.config
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik_LedStrip_Config.Properties.Resources.resources
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik LedStrip Config.csproj.GenerateResource.Cache
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Debug\Prismatik LedStrip Config.exe
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Debug\Prismatik LedStrip Config.pdb
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik LedStrip Config.exe
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik LedStrip Config.pdb
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik LedStrip Config.csprojResolveAssemblyReference.cache
+c:\users\unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik_LedStrip_Config.F_Main.resources
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik_LedStrip_Config.F_Preview.resources
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Debug\Prismatik LedStrip Config.exe.manifest
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\bin\Debug\Prismatik LedStrip Config.application
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik LedStrip Config.exe.manifest
+C:\Users\Unrea\documents\visual studio 2015\Projects\Prismatik LedStrip Config\Prismatik LedStrip Config\obj\Debug\Prismatik LedStrip Config.application
